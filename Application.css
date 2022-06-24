@@ -1,0 +1,43 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: black;
+    text-align: center;
+    width: 1000opx;
+    height: 100px;
+    color: gold;
+    font-size: xx-large;
+}
+body{
+background-color: gold;
+}
+h1{
+    color: blue;
+    font-style: italic;
+    font-size: xx-large;
+}
+form{
+    text-align: center;
+    
+}
+.style{
+    color: blue;
+    
+}
+.country{
+    color: black;
+}
+.flooter{
+    background-color: black;
+    text-align: center;
+    width: 1000opx;
+    color: gold;
+    font-size: xx-large;
+    height: 300pz;
+}
+
+
+
